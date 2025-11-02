@@ -25,8 +25,6 @@ The goal was to clean, analyze, and visualize sales performance — identifying 
 
 ✅ Final dataset: **407,664 valid transactions**
 
-### 📊 Initial Data Overview
-![Initial Data Overview](images/Screenshot%202025-10-14%20000401.png)
 
 ### 📊 After Cleaning
 ![Cleaned Data Summary](images/Screenshot%202025-10-14%20000620.png)
